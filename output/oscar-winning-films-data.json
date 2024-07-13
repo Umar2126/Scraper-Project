@@ -1,0 +1,211 @@
+[ {
+  "Epoch Time of Scrape" : "1720876654209",
+  "isWinner" : "true",
+  "Nominations" : "6",
+  "Year" : "2015",
+  "Award" : "2",
+  "Title" : "Spotlight"
+}, {
+  "Epoch Time of Scrape" : "1720876654237",
+  "isWinner" : "false",
+  "Nominations" : "10",
+  "Year" : "2015",
+  "Award" : "6",
+  "Title" : "Mad Max: Fury Road"
+}, {
+  "Epoch Time of Scrape" : "1720876654261",
+  "isWinner" : "false",
+  "Nominations" : "12",
+  "Year" : "2015",
+  "Award" : "3",
+  "Title" : "The Revenant"
+}, {
+  "Epoch Time of Scrape" : "1720876654286",
+  "isWinner" : "false",
+  "Nominations" : "6",
+  "Year" : "2015",
+  "Award" : "1",
+  "Title" : "Bridge of Spies"
+}, {
+  "Epoch Time of Scrape" : "1720876654310",
+  "isWinner" : "false",
+  "Nominations" : "5",
+  "Year" : "2015",
+  "Award" : "1",
+  "Title" : "The Big Short"
+}, {
+  "Epoch Time of Scrape" : "1720876654397",
+  "isWinner" : "true",
+  "Nominations" : "",
+  "Year" : "2014",
+  "Award" : "",
+  "Title" : ""
+}, {
+  "Epoch Time of Scrape" : "1720876654430",
+  "isWinner" : "false",
+  "Nominations" : "",
+  "Year" : "2014",
+  "Award" : "",
+  "Title" : ""
+}, {
+  "Epoch Time of Scrape" : "1720876654453",
+  "isWinner" : "false",
+  "Nominations" : "",
+  "Year" : "2014",
+  "Award" : "",
+  "Title" : ""
+}, {
+  "Epoch Time of Scrape" : "1720876654479",
+  "isWinner" : "false",
+  "Nominations" : "",
+  "Year" : "2014",
+  "Award" : "",
+  "Title" : ""
+}, {
+  "Epoch Time of Scrape" : "1720876654503",
+  "isWinner" : "false",
+  "Nominations" : "",
+  "Year" : "2014",
+  "Award" : "",
+  "Title" : ""
+}, {
+  "Epoch Time of Scrape" : "1720876654582",
+  "isWinner" : "true",
+  "Nominations" : "",
+  "Year" : "2013",
+  "Award" : "",
+  "Title" : ""
+}, {
+  "Epoch Time of Scrape" : "1720876654606",
+  "isWinner" : "false",
+  "Nominations" : "",
+  "Year" : "2013",
+  "Award" : "",
+  "Title" : ""
+}, {
+  "Epoch Time of Scrape" : "1720876654630",
+  "isWinner" : "false",
+  "Nominations" : "",
+  "Year" : "2013",
+  "Award" : "",
+  "Title" : ""
+}, {
+  "Epoch Time of Scrape" : "1720876654653",
+  "isWinner" : "false",
+  "Nominations" : "",
+  "Year" : "2013",
+  "Award" : "",
+  "Title" : ""
+}, {
+  "Epoch Time of Scrape" : "1720876654676",
+  "isWinner" : "false",
+  "Nominations" : "",
+  "Year" : "2013",
+  "Award" : "",
+  "Title" : ""
+}, {
+  "Epoch Time of Scrape" : "1720876654751",
+  "isWinner" : "true",
+  "Nominations" : "",
+  "Year" : "2012",
+  "Award" : "",
+  "Title" : ""
+}, {
+  "Epoch Time of Scrape" : "1720876654774",
+  "isWinner" : "false",
+  "Nominations" : "",
+  "Year" : "2012",
+  "Award" : "",
+  "Title" : ""
+}, {
+  "Epoch Time of Scrape" : "1720876654809",
+  "isWinner" : "false",
+  "Nominations" : "",
+  "Year" : "2012",
+  "Award" : "",
+  "Title" : ""
+}, {
+  "Epoch Time of Scrape" : "1720876654835",
+  "isWinner" : "false",
+  "Nominations" : "",
+  "Year" : "2012",
+  "Award" : "",
+  "Title" : ""
+}, {
+  "Epoch Time of Scrape" : "1720876654863",
+  "isWinner" : "false",
+  "Nominations" : "",
+  "Year" : "2012",
+  "Award" : "",
+  "Title" : ""
+}, {
+  "Epoch Time of Scrape" : "1720876654954",
+  "isWinner" : "true",
+  "Nominations" : "",
+  "Year" : "2011",
+  "Award" : "",
+  "Title" : ""
+}, {
+  "Epoch Time of Scrape" : "1720876654979",
+  "isWinner" : "false",
+  "Nominations" : "",
+  "Year" : "2011",
+  "Award" : "",
+  "Title" : ""
+}, {
+  "Epoch Time of Scrape" : "1720876655003",
+  "isWinner" : "false",
+  "Nominations" : "",
+  "Year" : "2011",
+  "Award" : "",
+  "Title" : ""
+}, {
+  "Epoch Time of Scrape" : "1720876655029",
+  "isWinner" : "false",
+  "Nominations" : "",
+  "Year" : "2011",
+  "Award" : "",
+  "Title" : ""
+}, {
+  "Epoch Time of Scrape" : "1720876655052",
+  "isWinner" : "false",
+  "Nominations" : "",
+  "Year" : "2011",
+  "Award" : "",
+  "Title" : ""
+}, {
+  "Epoch Time of Scrape" : "1720876655124",
+  "isWinner" : "true",
+  "Nominations" : "",
+  "Year" : "2010",
+  "Award" : "",
+  "Title" : ""
+}, {
+  "Epoch Time of Scrape" : "1720876655148",
+  "isWinner" : "false",
+  "Nominations" : "",
+  "Year" : "2010",
+  "Award" : "",
+  "Title" : ""
+}, {
+  "Epoch Time of Scrape" : "1720876655171",
+  "isWinner" : "false",
+  "Nominations" : "",
+  "Year" : "2010",
+  "Award" : "",
+  "Title" : ""
+}, {
+  "Epoch Time of Scrape" : "1720876655194",
+  "isWinner" : "false",
+  "Nominations" : "",
+  "Year" : "2010",
+  "Award" : "",
+  "Title" : ""
+}, {
+  "Epoch Time of Scrape" : "1720876655216",
+  "isWinner" : "false",
+  "Nominations" : "",
+  "Year" : "2010",
+  "Award" : "",
+  "Title" : ""
+} ]
